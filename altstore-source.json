@@ -33,8 +33,7 @@
         "privacy": {
           "NSMicrophoneUsageDescription": "Allow SoundBoard to access your microphone"
         }
-      },
-      "patreon": {}
+      }
     }
   ],
   "news": []
