@@ -1,33 +1,42 @@
 {
-"name": "SoundBoard",
-"bundleIdentifier": "dev.codingcorner.SoundBoardExpo",
-"marketplaceID": undefined,
-"developerName": "Dekoder-pya",
-"subtitle": "A simple soundboard",
-"localizedDescription": "It has 4 sounds.",
-"iconURL": "https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-large/1f509@2x.png",
-"tintColor": "#6156e2",
-"category": "entertainment",
-"screenshots": [
-],
-"versions": [
-{
-"downloadURL": "https://github.com/Dekoder-py/SoundBoard/releases/download/v1.0.0/SoundBoard.ipa",
-"size": 14000000,
-"version": "1.0.0",
-"buildVersion": null,
-"date": "2025-10-31T22:24:00+13:00",
-"localizedDescription": null,
-"minOSVersion": null
-}
-],
-"appPermissions": {
-"entitlements": [
-],
-"privacy": {
-"NSMicrophoneUsageDescription": "Allow SoundBoard to access your microphone"
-}
-},
-"patreon": {
-}
+  "name": "Dekoder-py's Apps",
+  "subtitle": "Altstore is cool.",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://codingcorner.dev",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "SoundBoard",
+      "bundleIdentifier": "dev.codingcorner.SoundBoardExpo",
+      "developerName": "Dekoder-pya",
+      "subtitle": "A simple soundboard",
+      "localizedDescription": "It has 4 sounds.",
+      "iconURL": "https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-large/1f509@2x.png",
+      "tintColor": "#6156e2",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/Dekoder-py/SoundBoard/releases/download/v1.0.0/SoundBoard.ipa",
+          "size": 14000000,
+          "version": "1.0.0",
+          "buildVersion": null,
+          "date": "2025-10-31T22:24:00+13:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Allow SoundBoard to access your microphone"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
 }
