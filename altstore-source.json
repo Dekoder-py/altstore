@@ -34,6 +34,32 @@
           "NSMicrophoneUsageDescription": "Allow SoundBoard to access your microphone"
         }
       }
+    },
+    {
+      "name": "RollTheDice",
+      "bundleIdentifier": "dev.codingcorner.RollTheDice",
+      "developerName": "Dekoder-py",
+      "subtitle": "A simple dice rolling app",
+      "localizedDescription": "I made the dice icons myself :)",
+      "iconURL": "https://i.imgur.com/0fsBg8F.png",
+      "tintColor": "#e42c2c",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/Dekoder-py/RollTheDice/releases/download/v1.0.0/RollTheDice.ipa",
+          "size": 2400000,
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2025-11-01T18:52:00+13:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
   "news": []
