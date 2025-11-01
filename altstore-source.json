@@ -5,7 +5,7 @@
   "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
   "website": "https://codingcorner.dev",
   "tintColor": "#6156e2",
-  "featuredApps": ["dev.codingcorner.SoundBoardExpo"],
+  "featuredApps": ["dev.codingcorner.SoundBoardExpo", "dev.codingcorner.RollTheDice"],
   "apps": [
     {
       "name": "SoundBoard",
