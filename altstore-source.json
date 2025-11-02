@@ -13,7 +13,6 @@
     {
       "name": "SoundBoard",
       "bundleIdentifier": "dev.codingcorner.SoundBoard",
-      "marketplaceID": "",
       "developerName": "Dekoder-py",
       "subtitle": "A simple soundboard",
       "localizedDescription": "It has 4 sounds.",
@@ -40,7 +39,6 @@
     {
       "name": "RollTheDice",
       "bundleIdentifier": "dev.codingcorner.RollTheDice",
-      "marketplaceID": "",
       "developerName": "Dekoder-py",
       "subtitle": "A simple dice rolling app",
       "localizedDescription": "I made the dice icons myself :)",
