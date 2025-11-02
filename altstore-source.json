@@ -12,30 +12,38 @@
   "apps": [
     {
       "name": "SoundBoard",
-      "bundleIdentifier": "dev.codingcorner.SoundBoardExpo",
+      "bundleIdentifier": "dev.codingcorner.SoundBoard",
+      "marketplaceID": "",
       "developerName": "Dekoder-py",
       "subtitle": "A simple soundboard",
       "localizedDescription": "It has 4 sounds.",
-      "iconURL": "https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-large/1f509@2x.png",
+      "iconURL": undefined,
       "tintColor": "#6156e2",
       "category": "entertainment",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/Dekoder-py/SoundBoard/releases/download/v1.0.1/SoundBoard.ipa",
-          "size": 14000000,
-          "version": "1.0.1",
+          "downloadURL": "https://github.com/Dekoder-py/SoundBoard/releases/download/v2.0/SoundBoard.ipa",
+          "size": 1000000,
+          "version": "2.0",
           "buildVersion": null,
+          "date": "2025-11-02T01:25:00+13:00",
+          "localizedDescription": "Rewritten in Swift! Sounds now play in silent mode.",
+          "minOSVersion": null
+        },
+        {
+          "version": "1.0.1",
           "date": "2025-10-31T22:24:00+13:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/Dekoder-py/SoundBoard/releases/download/v1.0.1/SoundBoard.ipa",
+          "size": 14000000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {
-          "NSMicrophoneUsageDescription": "Allow SoundBoard to access your microphone"
-        }
+        "privacy": {}
       }
     },
     {
