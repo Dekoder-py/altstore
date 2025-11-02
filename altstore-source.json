@@ -5,7 +5,10 @@
   "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
   "website": "https://codingcorner.dev",
   "tintColor": "#6156e2",
-  "featuredApps": ["dev.codingcorner.SoundBoardExpo", "dev.codingcorner.RollTheDice"],
+  "featuredApps": [
+    "dev.codingcorner.SoundBoardExpo",
+    "dev.codingcorner.RollTheDice"
+  ],
   "apps": [
     {
       "name": "SoundBoard",
@@ -18,6 +21,15 @@
       "category": "entertainment",
       "screenshots": [],
       "versions": [
+        {
+          "downloadURL": "https://github.com/Dekoder-py/SoundBoard/releases/download/v1.1.1/SoundBoard.ipa",
+          "size": 14300000,
+          "version": "1.1.1",
+          "buildVersion": null,
+          "date": "2025-11-02T00:04:00+13:00",
+          "localizedDescription": "Fixed crash on load.",
+          "minOSVersion": null
+        },
         {
           "downloadURL": "https://github.com/Dekoder-py/SoundBoard/releases/download/v1.1.0/SoundBoard.ipa",
           "size": 14000000,
