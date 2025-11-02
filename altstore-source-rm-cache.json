@@ -23,21 +23,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/Dekoder-py/SoundBoard/releases/download/v2.0/SoundBoard.ipa",
+          "downloadURL": "https://github.com/Dekoder-py/SoundBoard/releases/download/v2.1/SoundBoard.ipa",
           "size": 1000000,
-          "version": "2.0",
+          "version": "2.1",
           "buildVersion": "1",
-          "date": "2025-11-02T01:25:00+13:00",
-          "localizedDescription": "Rewritten in Swift! Sounds now play in silent mode.",
-          "minOSVersion": null
-        },
-        {
-          "version": "1.0.1",
-          "date": "2025-10-31T22:24:00+13:00",
+          "date": "2025-11-02T01:47:00+13:00",
           "localizedDescription": null,
-          "downloadURL": "https://github.com/Dekoder-py/SoundBoard/releases/download/v1.0.1/SoundBoard.ipa",
-          "size": 14000000,
-          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -49,6 +40,7 @@
     {
       "name": "RollTheDice",
       "bundleIdentifier": "dev.codingcorner.RollTheDice",
+      "marketplaceID": "",
       "developerName": "Dekoder-py",
       "subtitle": "A simple dice rolling app",
       "localizedDescription": "I made the dice icons myself :)",
@@ -58,12 +50,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/Dekoder-py/RollTheDice/releases/download/v1.0.0/RollTheDice.ipa",
-          "size": 2400000,
           "version": "1.0",
-          "buildVersion": "1",
           "date": "2025-11-01T18:52:00+13:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/Dekoder-py/RollTheDice/releases/download/v1.0.0/RollTheDice.ipa",
+          "size": 2400000,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
