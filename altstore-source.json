@@ -26,7 +26,7 @@
           "downloadURL": "https://github.com/Dekoder-py/SoundBoard/releases/download/v2.0/SoundBoard.ipa",
           "size": 1000000,
           "version": "2.0",
-          "buildVersion": null,
+          "buildVersion": "1",
           "date": "2025-11-02T01:25:00+13:00",
           "localizedDescription": "Rewritten in Swift! Sounds now play in silent mode.",
           "minOSVersion": null
